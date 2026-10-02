@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Solitaire Diamond Ring",
+    "mood": "seamless",
+    "type": "ring",
+    "size": "50 / 52 / 54 / 56",
+    "price": 15900,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนเพชรดีไซน์คลาสสิก โดดเด่นด้วยเพชรเม็ดกลาง สะท้อนประกายงดงาม เหมาะสำหรับทุกโอกาส"
+  },
+  {
+    "id": 2,
+    "name": "Elegant Diamond Ring",
+    "mood": "seamless",
+    "type": "ring",
+    "size": "50 / 52 / 54 / 56",
+    "price": 18900,
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนเพชรดีไซน์เรียบหรู ตัวเรือนประณีต พร้อมเพชรที่ช่วยเพิ่มความโดดเด่นให้กับทุกลุค"
+  },
+  {
+    "id": 3,
+    "name": "Diamond Halo Ring",
+    "mood": "cotton",
+    "type": "ring",
+    "size": "50 / 52 / 54 / 56",
+    "price": 22900,
+    "image": "IMG_1576.jpg",
+    "description": "แหวนเพชรล้อมดีไซน์หรู เพิ่มมิติของประกายเพชร ให้โดดเด่นและสะกดสายตาในทุกมุมมอง"
+  },
+  {
+    "id": 4,
+    "name": "Luxury Diamond Band",
+    "mood": "cotton",
+    "type": "ring",
+    "size": "50 / 52 / 54 / 56",
+    "price": 25900,
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?w=500&auto=format&fit=crop&q=80",
+    "description": "แหวนเพชรดีไซน์โมเดิร์น ประดับเพชรอย่างประณีต ให้ความรู้สึกหรูหราและสวมใส่ได้ในชีวิตประจำวัน"
+  },
+  {
+    "id": 5,
+    "name": "Classic Diamond Necklace",
+    "mood": "sport",
+    "type": "necklace",
+    "size": "40 / 45 cm",
+    "price": 19900,
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=500&auto=format&fit=crop&q=80",
+    "description": "สร้อยคอเพชรดีไซน์คลาสสิก พร้อมจี้เพชรเม็ดงาม เพิ่มความสง่างามและความโดดเด่นให้กับผู้สวมใส่"
+  },
+  {
+    "id": 6,
+    "name": "Premium Diamond Pendant",
+    "mood": "sport",
+    "type": "necklace",
+    "size": "40 / 45 cm",
+    "price": 29900,
+    "image": "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=500&auto=format&fit=crop&q=80",
+    "description": "จี้เพชรดีไซน์พรีเมียม สะท้อนแสงอย่างงดงาม ตัวเรือนประณีต เหมาะสำหรับวันพิเศษและโอกาสสำคัญ"
+  },
+  {
+    "id": 7,
+    "name": "Diamond Stud Earrings",
+    "mood": "lounge",
+    "type": "earrings",
+    "size": "Free Size",
+    "price": 12900,
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=500&auto=format&fit=crop&q=80",
+    "description": "ต่างหูเพชรเม็ดเดี่ยวดีไซน์มินิมอล สวมใส่ง่าย เพิ่มประกายให้ใบหน้า เหมาะสำหรับทุกวัน"
+  },
+  {
+    "id": 8,
+    "name": "Diamond Drop Earrings",
+    "mood": "seamless",
+    "type": "earrings",
+    "size": "Free Size",
+    "price": 21900,
+    "image": "https://images.unsplash.com/photo-1635767798638-3e25273a8236?w=500&auto=format&fit=crop&q=80",
+    "description": "ต่างหูเพชรดีไซน์หรู ทรงระย้าพลิ้วไหว พร้อมประกายเพชรที่ช่วยเติมเต็มลุคให้ดูสง่างาม"
+  },
+  {
+    "id": 9,
+    "name": "Diamond Tennis Bracelet",
+    "mood": "cotton",
+    "type": "bracelet",
+    "size": "16 / 17 / 18 cm",
+    "price": 45900,
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?w=500&auto=format&fit=crop&q=80",
+    "description": "สร้อยข้อมือเพชรดีไซน์ Tennis Classic ประดับเพชรเรียงต่อเนื่อง ให้ประกายโดดเด่นรอบข้อมือ"
+  },
+  {
+    "id": 10,
+    "name": "Luxury Diamond Gift Set",
+    "mood": "lounge",
+    "type": "set",
+    "size": "Free Size",
+    "price": 59900,
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?w=500&auto=format&fit=crop&q=80",
+    "description": "เซ็ตเครื่องประดับเพชรสุดหรู ประกอบด้วยแหวน สร้อยคอ และต่างหู เหมาะสำหรับมอบเป็นของขวัญในโอกาสพิเศษ"
+  }
+]
